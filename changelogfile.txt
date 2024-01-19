@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------
+
+- CHANGE LOG FILE
+
+- Changes needed for POE Part 1 (from feedback):
+
+	1. Improve troubleshooting in readme file
+	2. Improve UML diagram
+	3. Add Extras
+	4. Final calc. doesn't pull through properly into time remaining
+
+- Changes implemented for POE Part 2 (feedback implemented):
+
+	1. Troubleshooting improved in readme file
+	2. UML diagram is more accurate to the logic of the program
+	3. Extras add -- Lambda expressions are used throughout the program
+	4. Final calc. pulls through correctly into time remaining
+
+-------------------------------------------------------------------------
